@@ -9,8 +9,7 @@ permalink:        pretty
 title:            Advanced Computer Vision Meetup
 tagline:          ''
 description:      'Official website for the <a href="http://jekyllrb.com" target="_blank">Advanced Computer Vision Meetup</a> in Berlin'
-url:              https://notanymike.github.io/
-baseurl:          'https://notanymike.github.io/AdvancedComputerVision/'
+baseurl:          '/AdvancedComputerVision/'
 
 author:
   name:           'Mike Woodcock'
